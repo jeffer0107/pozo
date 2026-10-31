@@ -1,0 +1,16 @@
+BAJO NUESTROS PIES — Autoría: Mora
+
+1. Extraé todo el ZIP en una carpeta.
+2. Abrí Bajo-Nuestros-Pies/bajo-nuestros-pies.html (o bajo-nuestros-pies.html si ya estás dentro de esa carpeta).
+3. Deslizá para recorrer la portada y continuar hacia el subsuelo.
+
+Mapa departamental
+Elegí un departamento en el ranking o en el mapa. El filtro por estado actualiza el ranking y los puntos. Abrí los grupos para acercarte y tocá un pozo para ver su ficha. “Ver todo Neuquén” restablece el departamento y el estado.
+
+Se incluyen los 19.657 registros únicos de Neuquén del CSV aportado por el equipo. Hay 21 registros sin departamento asignado a partir de sus coordenadas; se mantienen en “Sin asignar”. Un registro sin coordenadas utilizables no se dibuja.
+
+El mapa usa un fondo sólido. Las librerías Leaflet, los polígonos de Georef / IGN, los puntos y el ranking se incluyen localmente y funcionan sin conexión. Las fuentes y las notas metodológicas están al final de la página.
+
+Se conserva el fondo suministrado por el equipo, incluido bg-fondo-alineado.jpg.
+
+Los colores representan Activos, Transitorios, Abandonados y A abandonar. Los demás estados se conservan en gris. El filtro permite elegir un grupo o un estado original; las fichas mantienen la clasificación del CSV.
